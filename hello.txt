@@ -8,6 +8,6 @@ hello git! hello atguigiu!
 hello git! hello atguigiu!
 hello git! hello atguigiu!
 hello git! hello atguigiu!
-hello git! hello atguigiu!
+hello git! hello atguigiu! hot-fix test
 
 
