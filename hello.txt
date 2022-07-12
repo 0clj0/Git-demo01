@@ -7,7 +7,7 @@ hello git! hello atguigiu!
 hello git! hello atguigiu!
 hello git! hello atguigiu!
 hello git! hello atguigiu!
-hello git! hello atguigiu!
-hello git! hello atguigiu! hot-fix test
+hello git! hello atguigiu! master text
+hello git! hello atguigiu! 
 
 
